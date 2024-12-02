@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+  color: #333;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.title {
+  font-size: 28px;
+  font-weight: bold;
+  color: black;
+}
+
+.section-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: red;
+  margin-top: 20px;
+}
+
+ul,
+ol {
+  margin-left: 20px;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+ol {
+  list-style-type: decimal;
+}
+
+p {
+  margin: 10px 0;
+}
